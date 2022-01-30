@@ -1,3 +1,10 @@
+# vscode
+.vscode/
+*.json
+
+# personal
+训练赛档案/
+
 # Prerequisites
 *.d
 
