@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# vscode
+.vscode/
+*.json
+
+# personal
+训练赛档案/
+*.in
